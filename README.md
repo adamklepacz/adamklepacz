@@ -1,7 +1,7 @@
 ### Hi there 👋
 👨‍💻 My name is Adam Klepacz and I'm a Full Stack Javascript Developer.</br>
 🕹️ Trough my whole developer career I've been mostly related to the Javascript ecosystem and techs like React and Node.<br>
-📍 I come from Europe, Poland and I prefer to work remotely.<br>
+📍 I'm from Poland(Europe) and I prefer to work remotely.<br>
 ⚽ In a free time, I enjoy to watch football, read books and meditate 🧘<br>
 💬 Ask me about Javascript, React, Node, Next.js.<br>
 
