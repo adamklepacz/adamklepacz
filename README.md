@@ -10,6 +10,7 @@ PS. You can get in touch with me via [![LinkedIn](https://img.shields.io/badge/L
 
 
 [![Adam Klepacz GitHub stats](https://github-readme-stats.vercel.app/api?username=adamklepacz)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adamklepacz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **adamklepacz/adamklepacz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
