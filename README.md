@@ -4,6 +4,7 @@
 📍 I'm from Poland(Europe) and I prefer to work remotely.<br>
 ⚽ In a free time, I enjoy to watch football, read books and meditate 🧘<br>
 💬 Ask me about Javascript, React, Node, Next.js.<br>
+🔭 I’m currently working on my blog: [KlepaczKodu.pl](https://www.klepaczkodu.pl/)
 
 PS. You can get in touch with me via [![LinkedIn](https://img.shields.io/badge/Linkedin-green?logo=linkedin&style=social) ](https://www.linkedin.com/in/adam-klepacz/) 
 
@@ -12,7 +13,7 @@ PS. You can get in touch with me via [![LinkedIn](https://img.shields.io/badge/L
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
