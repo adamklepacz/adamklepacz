@@ -6,7 +6,7 @@ I'm also interested in AI technology. That's why I'm so intrigued by OpenAI, Cod
 
 I'm a hardware enthusiast too. I spend way too much money on tech gadgets like computers, smartphones, smartwatches, monitors, keyboards, mices, standing desks, etc.
 
-Most recently, I've been working on a side hustle—a reversed job board for React developers. You can follow my journey on LinkedIn!
+Most recently, I've been working on a side hustle—a reversed job board for React developers https://www.hirereactpro.com. You can follow my journey on LinkedIn!
 
 Github: https://github.com/adamklepacz <br>
 Blog: https://theaveragecoder.com<br>
